@@ -5,7 +5,7 @@ My name is Haeseung. I'm learning to code(especially HTML, CSS and Javascript) f
 I want to work for the common good one day.
 
 **chachagogogo@gmail.com**
-
+**velog.com@chachagogogo**
 
 <!--
 **chachagogogo/chachagogogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
